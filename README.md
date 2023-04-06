@@ -1,4 +1,4 @@
-# tubes_duplicate_region
+# duplicate-region
 Repository Penyimpanan File Tubes Kelas Forensik DIgital Kelompok 3
 
 ## Work Based On 
